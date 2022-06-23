@@ -11,7 +11,8 @@ Default keys are:
  - "f" : save cropped image
  - "a" : discard cropped image
  - "d" : move on to next image
-Can be changed inside separator.py
+
+Keys can be changed inside separator.py
 
 Original Image:
 ![image](https://user-images.githubusercontent.com/78274657/175226601-7b45f2fe-eafb-4a5f-b505-7b557a9b7ea3.png)
